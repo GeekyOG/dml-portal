@@ -30,7 +30,7 @@ function AddBrandForm({ callBackAction, id, reset }: AddBrandFormProps) {
 
   useEffect(() => {
     if (id) {
-      setDisplay(`https://zerosix.aoudit.com/api/v1/brands/${id}`);
+      setDisplay(`https://dml-backend.onrender.com/api/v1/brands/${id}`);
 
       getBrand(id)
         .unwrap()

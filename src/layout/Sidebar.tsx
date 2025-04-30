@@ -71,7 +71,7 @@ function Sidebar() {
               <p className="text-[1.25rem] font-[700] text-[#000]">ZS</p>
             </div>
             <div>
-              <p className="text-[0.75rem] font-[500] text-[#fff]">Zerosix</p>
+              <p className="text-[0.75rem] font-[500] text-[#fff]">DML FILMS</p>
             </div>
           </div>
         </div>
