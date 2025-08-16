@@ -8,7 +8,7 @@ import Cookies from "js-cookie";
 import { logout } from "../utils/logout";
 
 const baseQuery = fetchBaseQuery({
-  baseUrl: "https://dml-backend.onrender.com/api/v1",
+  baseUrl: "https://api.dmlfilmsproduction.com/api/v1",
   // baseUrl: "https://dml-backend.onrender.com/api/v1",
   prepareHeaders: (headers) => {
     // Retrieve the token from cookies
